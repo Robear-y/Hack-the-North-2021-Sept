@@ -1,3 +1,6 @@
+![HTN 2021 SCRNcap](https://user-images.githubusercontent.com/58884455/133917205-91103c45-8ed7-4cf0-a00b-97c1c8a20c73.png)
+
+
 ## Inspiration
 
 Our team wanted to try learning web development, so we needed a simple but also fun project. One day at lunch, we thought of creating a personality quiz that would determine what kind of chess piece you were. This evolved into making a game where you could move around a chess piece however you like and our program would return what chess piece the moves you made were similar to.
