@@ -23,8 +23,8 @@ function endGame(){
       maxIndex=3;
     }
   }
-  if(maxIndex==3 || maxIndex == 1){
-    if(king==pawn || rock == pawn){
+  if(maxIndex==3){
+    if(king==pawn){
       maxIndex=4;
     }
   }
@@ -108,12 +108,13 @@ function addScore (id) {
       king ++;
       console.log("king");
     }
+
     queen++;
     rock++;
     console.log("rockquen")
   }
   else if(newColumn == column){
-    if (newRow-row == 1){
+    if (newRow-row == -1){
       pawn++;
       console.log("pawn")
     }
